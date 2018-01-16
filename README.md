@@ -7,7 +7,7 @@ A Theme Manager for [MantisBT](http://www.mantisbt.org/), the free web-based bug
 2018 updated by Cactushead
 
 ## Version
- 
+
 0.0.3 (20180116)
 Tested with Mantis 2.9
 
@@ -18,7 +18,7 @@ Tested with Mantis 2.9
 ## Install
 
 1. [Download](https://github.com/cactushead/MantisThemeManager/archive/master.zip)
-2. Unpack
+2. Unpack the zip file
 3. Rename the unpacked folder called `TimPietrusky-MantisThemeManager-xxxxxxx` to `MantisThemeManager`
 4. Copy the `MantisThemeManager` folder to `<mantis-root>/plugins/`
 5. Go to *Manage / Manage Plugins* and hit the *Install* action for **MantisBT Theme Manager**
