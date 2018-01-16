@@ -17,6 +17,7 @@ Tested with Mantis 2.9
 
 * This fork changes the look of the theme manager to more closely use the MantisBT default styling and layout.
 * Screenshot zoom on hover still works and can additionally be themed by your custom themes (like cactus light).
+* Label indicator to make it clear which is the active theme.
 * The instructions shows a red or green indication as to whether you have created the themes folder.
 
 ## Install
