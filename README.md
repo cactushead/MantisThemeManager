@@ -15,6 +15,9 @@ Tested with Mantis 2.9
 
 ![preview](https://github.com/cactushead/MantisThemeManager/blob/master/screenshots/screenshot.png)
 
+This fork changes the look of the theme manager to more closely use the MantisBT default styling and layout.
+Screenshot zoom on hover still works and can be themed by your custom themes (like cactus light)
+
 ## Install
 
 1. [Download](https://github.com/cactushead/MantisThemeManager/archive/master.zip)
@@ -40,7 +43,7 @@ Follow the **Instructions** on the **MantisBT Theme Manager** page.
 
 <img src="https://github.com/cactushead/cactus-light-theme/raw/master/cactus%20light.png" height="200" alt="cactus light theme for MantisBT">
 
-[Download](https://github.com/Samunosuke/mantis-suke-theme/zipball/master)
+[Download](https://github.com/cactushead/cactus-light-theme/archive/master.zip)
 
 
 ### MantisBT is a ☆ ✪ ★ rockstar
