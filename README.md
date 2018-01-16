@@ -7,7 +7,7 @@ A Theme Manager for [MantisBT](http://www.mantisbt.org/), the free web-based bug
 2018 updated by Cactushead
 
 ## Version
-
+ 
 0.0.3 (20180116)
 Tested with Mantis 2.9
 
