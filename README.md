@@ -13,7 +13,7 @@ Tested with Mantis 2.9
 
 ## In Action
 
-![preview](http://tim-pietrusky.de/img/mantisbt_theme_mananger_preview.png)
+![preview](https://github.com/cactushead/MantisThemeManager/blob/master/screenshots/screenshot.png)
 
 ## Install
 
