@@ -13,7 +13,7 @@ Tested with Mantis 2.9
 
 ## In Action
 
-![preview](https://github.com/cactushead/MantisThemeManager/blob/master/screenshots/screenshot.png | width=300)
+![preview](https://github.com/cactushead/MantisThemeManager/blob/master/screenshots/screenshot.png | width=250)
 
 ## Install
 
