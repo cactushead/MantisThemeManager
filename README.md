@@ -38,14 +38,14 @@ Follow the **Instructions** on the **MantisBT Theme Manager** page.
 - Adds theme info to footer
 - No additional javascripts required
 
-<img src="cactus light.png" height="200" alt="cactus light theme for MantisBT">
+<img src="https://github.com/cactushead/cactus-light-theme/raw/master/cactus%20light.png" height="200" alt="cactus light theme for MantisBT">
 
 [Download](https://github.com/Samunosuke/mantis-suke-theme/zipball/master)
 
 
 ### MantisBT is a ☆ ✪ ★ rockstar
 
-<img src="http://github.com/TimPietrusky/mantisbt-is-a-rockstar/raw/master/rockstar/rockstar.png" height="200" alt="rockstar theme for MantisBT">
+<img src="https://raw.githubusercontent.com/TimPietrusky/mantisbt-is-a-rockstar/master/rockstar/rockstar.png" height="200" alt="rockstar theme for MantisBT">
 
 [Download](http://github.com/TimPietrusky/mantisbt-is-a-rockstar/zipball/master)
 
