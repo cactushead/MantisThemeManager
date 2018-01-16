@@ -49,8 +49,6 @@ Follow the **Instructions** on the **MantisBT Theme Manager** page.
 
 [Download](http://github.com/TimPietrusky/mantisbt-is-a-rockstar/zipball/master)
 
-### &lt;Your theme&gt;
-
 
 ### Mantis-Suke-Theme
 - adds gradient to bug list rows
@@ -61,6 +59,9 @@ Follow the **Instructions** on the **MantisBT Theme Manager** page.
 [Download](https://github.com/Samunosuke/mantis-suke-theme/zipball/master)
 
 Please create a pull request or issue or what ever to add your theme to the list.
+
+
+### &lt;Your theme&gt;
 
 #### How to submit a theme
 
