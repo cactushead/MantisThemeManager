@@ -2,9 +2,9 @@
 
 A Theme Manager for [MantisBT](http://www.mantisbt.org/), the free web-based bugtracking system.
 
-2012 by http://tim-pietrusky.de
-2017 updated by Samunosuke
-2018 updated by Cactushead
+* 2012 by http://tim-pietrusky.de
+* 2017 updated by Samunosuke
+* 2018 updated by Cactushead
 
 ## Version
 
